@@ -3,9 +3,9 @@
   "name": "Wikipedia API client",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "./favicon.ico",
       "sizes": "12x12",
-      "type": "image/x-icon"
+      "type": "image/png"
     }
   ],
   "start_url": "./index.html",
